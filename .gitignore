@@ -1,0 +1,33 @@
+# Ignore Python cache and environment files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment folders
+env/
+venv/
+ENV/
+
+# Ignore environment and secret files
+.env
+*.env
+.env.*
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore VSCode settings
+.vscode/ 
+
+# Example .env file for Nikhil's Portfolio
+# Copy this file to .env and fill in your real credentials
+
+SENDER_EMAIL=your-email@gmail.com
+SENDER_PASSWORD=your-app-password
+GOOGLE_API_KEY=your-google-api-key
+SSH_PASSWORD=your-ssh-password 
