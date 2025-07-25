@@ -353,8 +353,17 @@ function createProjectCard(project) {
     const card = document.createElement('div');
     card.className = 'project-card';
     card.innerHTML = `
+        <div class="project-image">
+            <i class="fas fa-folder-open"></i>
+        </div>
         <h3>${getProjectDisplayName(project)}</h3>
+        <hr style="margin: 1rem 0; border: none; border-top: 1px solid #f3f4f6;">
         <p>${getProjectDescription(project)}</p>
+        ${project.tech && project.tech.length ? `<div class="project-tech">${project.tech.map(tech => `<span>${tech}</span>`).join('')}</div>` : ''}
+        <div class="project-actions">
+            ${project.demo ? `<a href="${project.demo}" class="project-link" target="_blank">View</a>` : ''}
+            ${project.github ? `<a href="${project.github}" class="project-link" target="_blank">GitHub</a>` : ''}
+        </div>
     `;
     return card;
 }
