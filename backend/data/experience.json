@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "role": "Generative AI Trainee",
+    "company": "LinuxWorld Informatics Pvt Ltd",
+    "location": "Remote",
+    "duration": "May 2025 – Aug 2025",
+    "description": "Worked on Generative AI concepts and automation-based solutions using Python. Focused on building real-world use cases and understanding AI-driven workflows.",
+    "skills": ["Generative AI", "Python", "Automation", "AI Workflows", "Prompt Engineering"]
+  },
+  {
+    "id": 2,
+    "role": "Frontend Developer Intern",
+    "company": "1Stop.ai",
+    "location": "Remote",
+    "duration": "Mar 2024 – Apr 2024",
+    "description": "Worked on frontend development, building responsive and user-friendly web interfaces using core web technologies.",
+    "skills": ["HTML", "CSS", "JavaScript", "UI Design", "Responsive Design"]
+  },
+  {
+    "id": 3,
+    "role": "Linux & AWS Intern",
+    "company": "Tech Organization",
+    "location": "Remote",
+    "duration": "2024",
+    "description": "Gained hands-on experience with AWS services including EC2, S3, IAM, and CLI operations. Managed Linux servers, implemented security best practices, and automated deployment workflows.",
+    "skills": ["AWS", "Linux", "EC2", "S3", "IAM", "Server Management", "Bash Scripting"]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Python Automation Suite",
+    "description": "A comprehensive automation toolkit that streamlines email processing, WhatsApp messaging, and security operations. Features intelligent scheduling, batch processing, and customizable workflows for maximum productivity.",
+    "tech": ["Python", "Automation", "Security", "Selenium", "Schedule"],
+    "liveLink": "",
+    "githubLink": "https://github.com/TheNikhilLuhach"
+  },
+  {
+    "id": 2,
+    "name": "Hand Gesture Control System",
+    "description": "Computer vision application enabling touchless computer control through hand gestures. Uses MediaPipe for hand tracking and supports custom gesture recognition for various system commands.",
+    "tech": ["Python", "Computer Vision", "AI", "MediaPipe", "OpenCV"],
+    "liveLink": "",
+    "githubLink": "https://github.com/TheNikhilLuhach"
+  },
+  {
+    "id": 3,
+    "name": "Voice Command Automation",
+    "description": "Voice-controlled automation system for hands-free computer operation. Features speech recognition, natural language processing, and integration with system commands for a seamless voice experience.",
+    "tech": ["Python", "AI", "Automation", "Speech Recognition", "NLP"],
+    "liveLink": "",
+    "githubLink": "https://github.com/TheNikhilLuhach"
+  },
+  {
+    "id": 4,
+    "name": "AI-Powered Resume Builder",
+    "description": "Modern resume builder with AI-powered content suggestions, ATS optimization, and professional template designs. Helps users create standout resumes with intelligent recommendations.",
+    "tech": ["React", "Node.js", "AI", "MongoDB", "Express"],
+    "liveLink": "",
+    "githubLink": "https://github.com/TheNikhilLuhach"
+  },
+  {
+    "id": 5,
+    "name": "Cybersecurity Toolkit",
+    "description": "Collection of security tools for penetration testing, vulnerability scanning, and system hardening. Includes automated scanning scripts and security report generators.",
+    "tech": ["Python", "Security", "Kali Linux", "Nmap", "Metasploit"],
+    "liveLink": "",
+    "githubLink": "https://github.com/TheNikhilLuhach"
+  },
+  {
+    "id": 6,
+    "name": "Cloud Infrastructure Manager",
+    "description": "AWS resource management dashboard for monitoring and managing EC2 instances, S3 buckets, and IAM permissions. Provides cost optimization recommendations and security alerts.",
+    "tech": ["AWS", "React", "Node.js", "Python", "Docker"],
+    "liveLink": "",
+    "githubLink": "https://github.com/TheNikhilLuhach"
+  }
+]

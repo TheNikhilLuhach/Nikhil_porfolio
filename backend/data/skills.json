@@ -1,0 +1,67 @@
+{
+  "categories": [
+    {
+      "title": "Programming Languages",
+      "icon": "Code2",
+      "skills": [
+        { "name": "Python", "level": 90 },
+        { "name": "JavaScript", "level": 85 },
+        { "name": "Java", "level": 75 },
+        { "name": "C / C++", "level": 70 },
+        { "name": "Bash/Shell", "level": 65 }
+      ]
+    },
+    {
+      "title": "Web Development",
+      "icon": "Globe",
+      "skills": [
+        { "name": "React / Next.js", "level": 85 },
+        { "name": "HTML5 / CSS3", "level": 90 },
+        { "name": "Node.js", "level": 80 },
+        { "name": "Flask / FastAPI", "level": 85 },
+        { "name": "REST APIs", "level": 88 }
+      ]
+    },
+    {
+      "title": "Tools & Platforms",
+      "icon": "Wrench",
+      "skills": [
+        { "name": "Git & GitHub", "level": 90 },
+        { "name": "Docker", "level": 75 },
+        { "name": "VS Code", "level": 95 },
+        { "name": "Postman", "level": 85 },
+        { "name": "VirtualBox", "level": 80 }
+      ]
+    },
+    {
+      "title": "Cloud & DevOps",
+      "icon": "Cloud",
+      "skills": [
+        { "name": "AWS (EC2, S3, IAM)", "level": 80 },
+        { "name": "Linux Server Mgmt", "level": 85 },
+        { "name": "CI/CD (GitHub Actions)", "level": 70 },
+        { "name": "AWS CLI", "level": 75 }
+      ]
+    },
+    {
+      "title": "Cybersecurity",
+      "icon": "Shield",
+      "skills": [
+        { "name": "Kali Linux", "level": 85 },
+        { "name": "Burp Suite", "level": 80 },
+        { "name": "Nmap / Wireshark", "level": 75 },
+        { "name": "Metasploit", "level": 70 },
+        { "name": "Vulnerability Analysis", "level": 78 }
+      ]
+    },
+    {
+      "title": "Databases",
+      "icon": "Database",
+      "skills": [
+        { "name": "MongoDB", "level": 85 },
+        { "name": "MySQL", "level": 80 },
+        { "name": "Database Design", "level": 75 }
+      ]
+    }
+  ]
+}

@@ -9,6 +9,10 @@ env/
 venv/
 ENV/
 
+# Ignore Node.js modules
+node_modules/
+**/node_modules/
+
 # Ignore environment and secret files
 .env
 *.env
@@ -24,10 +28,19 @@ Thumbs.db
 # Ignore VSCode settings
 .vscode/ 
 
+# Ignore Next.js build output
+.next/
+out/
+dist/
+
+# Ignore build files
+build/
+*.build
+
 # Example .env file for Nikhil's Portfolio
 # Copy this file to .env and fill in your real credentials
 
 SENDER_EMAIL=your-email@gmail.com
 SENDER_PASSWORD=your-app-password
 GOOGLE_API_KEY=your-google-api-key
-SSH_PASSWORD=your-ssh-password 
+SSH_PASSWORD=your-ssh-password
